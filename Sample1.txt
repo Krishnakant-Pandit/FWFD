@@ -2,3 +2,4 @@ Hello World!!
 My Name is Krishnakant Pandit
 I study in KLU
 This is a sample file 1.
+This is a txt type file.
